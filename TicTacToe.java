@@ -1,4 +1,4 @@
-// Tic tac toe game using a 2d array, player 1 goes up against player 2 ****OLD CODE, STYLE IS BETTER NOW****
+// Tic tac toe game using a 2d array, player 1 goes up against player 2
 package ticTacToe;
 import java.util.Scanner;
 public class TicTacToe {
